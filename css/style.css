@@ -1,0 +1,29 @@
+#contactus{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -100px;
+    margin-left: 416px;
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
+
+
+#subject{
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: 17px;
+    margin-left: 214px;
+}
+
+#logo{
+    height: 60px;
+    width: 60px;
+    right: 200px;
+}
+
+.logo_area{width: 100px;height: 80px; position: absolute;left: 50%;top: -40px;content: "";margin-left: -140px }
